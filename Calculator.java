@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Main {
+public class Calculator {
 
     static Stack<Integer> numbersStack = new Stack<>();
     static Stack<String> operationStack = new Stack<>();
